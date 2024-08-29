@@ -1,0 +1,35 @@
+This folder: /media/daniella/B/git/Video-Media/ChannelOne/&meta/Branding
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 116       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 4334025     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 23:12:14.272450200 -0300
+Modify: 2024-08-28 23:12:14.303448900 -0300
+Change: 2024-08-28 23:12:14.303448900 -0300
+ Birth: 2024-08-28 23:12:14.272450200 -0300
+IPFS hash: QmaS3HN2M66dvEsrbC9q2KpKV4xDrF7me1J3sVv3s2Qwfy
+------------------------------
+  File: ./icon_plainblack.svg
+  Size: 8502      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,52	Inode: 2326886     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 22:46:13.767288600 -0300
+Modify: 2023-05-23 23:01:11.870872600 -0300
+Change: 2023-10-20 03:10:45.712661200 -0300
+ Birth: 2023-05-23 23:01:11.854872400 -0300
+IPFS hash: Qmc2iEdzwuUMMdXED2QZag72ee5HnZNCCDSPbb2AwttnfJ
+------------------------------
+  File: ./icon_plainwhite.svg
+  Size: 8502      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,52	Inode: 2285813     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 22:45:24.598369500 -0300
+Modify: 2021-09-18 20:16:30.000000000 -0300
+Change: 2024-06-06 12:24:22.315390000 -0300
+ Birth: 2023-05-23 22:32:56.134339200 -0300
+IPFS hash: QmaPKTiSErGMUKbesSKuc66MvhNvz4raH8YDbq2NYTYEWb
+------------------------------

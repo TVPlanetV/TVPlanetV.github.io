@@ -1,0 +1,47 @@
+commit Qmd1qSUPF57KLkPGc4EbPoT8yh52169kzt3V8MkgR29WLi
+Branch: HEAD
+Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
+Signature: 2f6531654d99c127f0135aee40a58f1a3b4a7df1d8af98b1c89201621d8e15d42161de25a5d498f82eadf61e430e5f25ad2725706c1e032153fc9a1352d75a9c00
+
+------------------------------
+
+Commit CID if including git's SHA1: QmYTrojMAvW6LpmAUrG4arZejuXbF8JszttgmQZDDUtHxH
+Commit CID if containing only file hashes: QmXohxbdDLztqgWb4DEHJG2JDYaQDb4e3xvrkNW85xJwQe
+
+------------------------------
+
+.gitmeta version: r8
+Local folder: /media/daniella/B/git/Video-Media/ChannelOne/Sites/Site
+Remote Name: 
+Remote URL: 
+
+------------------------------
+
+chown -h 1000:1000 '.Legacy/.folderstamp1'
+chmod 0664 '.Legacy/.folderstamp1'
+/usr/bin/touch -hcmd "2024-08-28 23:12:14.5684380000 -0300" '.Legacy/.folderstamp1'
+/usr/bin/touch -hcad "2024-08-28 23:22:11.5523537000 -0300" '.Legacy/.folderstamp1'
+chown -h 1000:1000 '.Legacy/.folderstamp2'
+chmod 0664 '.Legacy/.folderstamp2'
+/usr/bin/touch -hcmd "2024-08-28 23:13:52.1145566000 -0300" '.Legacy/.folderstamp2'
+/usr/bin/touch -hcad "2024-08-28 23:22:11.5523537000 -0300" '.Legacy/.folderstamp2'
+chown -h 1000:1000 '.Legacy/icon.png.log.html5'
+chmod 0664 '.Legacy/icon.png.log.html5'
+/usr/bin/touch -hcmd "2024-08-28 23:14:32.9189991000 -0300" '.Legacy/icon.png.log.html5'
+/usr/bin/touch -hcad "2024-08-28 23:22:11.8703437000 -0300" '.Legacy/icon.png.log.html5'
+chown -h 1000:1000 'icon.png'
+chmod 0664 'icon.png'
+/usr/bin/touch -hcmd "2024-08-28 23:14:19.6175028000 -0300" 'icon.png'
+/usr/bin/touch -hcad "2024-08-28 23:14:22.5763905000 -0300" 'icon.png'
+chown -h 1000:1000 'icon.svg'
+chmod 0755 'icon.svg'
+/usr/bin/touch -hcmd "2023-05-23 23:01:11.8708726000 -0300" 'icon.svg'
+/usr/bin/touch -hcad "2024-08-28 23:13:51.9895614000 -0300" 'icon.svg'
+chown -h 1000:1000 'icon_plainwhite.svg'
+chmod 0755 'icon_plainwhite.svg'
+/usr/bin/touch -hcmd "2021-09-18 20:16:30.0000000000 -0300" 'icon_plainwhite.svg'
+/usr/bin/touch -hcad "2024-08-28 23:12:24.3750368000 -0300" 'icon_plainwhite.svg'
+chown -h 1000:1000 'index.html'
+chmod 0755 'index.html'
+/usr/bin/touch -hcmd "2024-08-28 23:21:13.0752064000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-08-28 23:21:15.1021417000 -0300" 'index.html'
